@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox
+END
+prod_tf_sf.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/prod_tf_sf.m
+END
+compute_structure_tensor.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/compute_structure_tensor.m
+END
+prod_tf_tf.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/prod_tf_tf.m
+END
+prod_vf_sf.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/prod_vf_sf.m
+END
+prod_tf_vf.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/prod_tf_vf.m
+END
+progressbar.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/progressbar.m
+END
+prod_vf_vf.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/prod_vf_vf.m
+END
+perform_tensor_decomp.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/perform_tensor_decomp.m
+END
+getoptions.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/getoptions.m
+END
+clamp.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/clamp.m
+END
+perform_dct_transform.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/perform_dct_transform.m
+END
+crop.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/crop.m
+END
+callback_atrou.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/callback_atrou.m
+END
+perform_vf_integration.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/perform_vf_integration.m
+END
+perform_convolution.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/perform_convolution.m
+END
+perform_tensor_recomp.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/perform_tensor_recomp.m
+END
+compute_grad.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/compute_grad.m
+END
+compute_rigidity_tensor.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/compute_rigidity_tensor.m
+END
+compute_gaussian_filter.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/compute_gaussian_filter.m
+END
+perform_vf_normalization.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/perform_vf_normalization.m
+END
+plot_tensor_field.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/plot_tensor_field.m
+END
+perform_histogram_equalization.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/perform_histogram_equalization.m
+END
+grad.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/grad.m
+END
+rescale.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/rescale.m
+END
+compute_patch_library.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/compute_patch_library.m
+END
+div.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/div.m
+END
+psnr.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/toolbox/psnr.m
+END

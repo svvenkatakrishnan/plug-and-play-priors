@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/mex
+END
+perform_adaptive_filtering.def
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/mex/perform_adaptive_filtering.def
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/mex/config.h
+END
+perform_adaptive_filtering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/mex/perform_adaptive_filtering.cpp
+END
+perform_adaptive_filtering.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/matlabcompanion/!svn/ver/1/toolbox/toolbox_image/mex/perform_adaptive_filtering.vcproj
+END
